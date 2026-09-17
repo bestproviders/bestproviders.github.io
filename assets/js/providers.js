@@ -408,7 +408,7 @@ const PROVIDERS = [
   {
     "slug": "gold-iptv",
     "name": "Gold IPTV",
-    "url": "https://ww2.goldiptvi.com/",
+    "url": "https://tv.goldiptvi.com/",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -508,7 +508,7 @@ const PROVIDERS = [
   {
     "slug": "skyhub4k",
     "name": "SkyHub4K",
-    "url": "https://ww2.skyhub4k.org/",
+    "url": "https://ww3.skyhub4k.org/",
     "note": "4K-tier IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -685,7 +685,7 @@ const PROVIDERS = [
   {
     "slug": "4k-iptv-spot-store",
     "name": "4K IPTV Spot Store",
-    "url": "https://www.4kiptvspotstore.com/",
+    "url": "https://tv.4kiptvspotstore.com/",
     "note": "4K-tier IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -960,7 +960,7 @@ const PROVIDERS = [
   {
     "slug": "bing-iptv",
     "name": "Bing IPTV",
-    "url": "https://www.bingiptvi.com/",
+    "url": "https://tv.bingiptvi.com/",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -1160,7 +1160,7 @@ const PROVIDERS = [
   {
     "slug": "falcon-iptv",
     "name": "Falcon IPTV",
-    "url": "https://www.falconiptvi.com/",
+    "url": "https://tv.falconiptvi.com/",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -1210,7 +1210,7 @@ const PROVIDERS = [
   {
     "slug": "flex-iptv",
     "name": "Flex IPTV",
-    "url": "https://www.flexiptvi.com/",
+    "url": "https://tv.flexiptvi.com/",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -1360,7 +1360,7 @@ const PROVIDERS = [
   {
     "slug": "hoxy-tv",
     "name": "Hoxy TV",
-    "url": "https://www.hoxy-tv.com/",
+    "url": "https://tv.hoxy-tv.com/",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -1435,7 +1435,7 @@ const PROVIDERS = [
   {
     "slug": "iscreen-hd-iptv",
     "name": "iScreen HD IPTV",
-    "url": "https://ww1.iscreenhd-iptv.com/",
+    "url": "https://tv.iscreenhd-iptv.com/",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -2037,7 +2037,7 @@ const PROVIDERS = [
   {
     "slug": "tivistation",
     "name": "TiviStation",
-    "url": "https://www.tivistation4k.com/",
+    "url": "https://tv.tivistation4k.com/",
     "note": "4K-tier IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -2187,7 +2187,7 @@ const PROVIDERS = [
   {
     "slug": "moly-iptv",
     "name": "Moly IPTV",
-    "url": "https://ww2.molyiptvi.com/",
+    "url": "https://molyiptvi.com/",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -2356,6 +2356,81 @@ const PROVIDERS = [
     "channel_count": null,
     "trial": "Not advertised",
     "last_updated": "2026-08-19",
+    "category": "general",
+    "tags": []
+  },
+  {
+    "slug": "iptv-service-hd",
+    "name": "IPTV Service HD",
+    "url": "https://www.iptvservicehd.com/",
+    "note": "General-entertainment IPTV storefront on the shared market template.",
+    "status": "profiled",
+    "overall": null,
+    "sub": {
+      "streaming": null,
+      "channels": 4,
+      "reliability": null,
+      "price": 4,
+      "support": null
+    },
+    "pricing": {
+      "monthly": 14.95,
+      "quarterly": 29.95,
+      "annual": 59.95
+    },
+    "channel_count": "25,000+ (provider-claimed)",
+    "trial": "Not advertised",
+    "last_updated": "2026-09-17",
+    "category": "general",
+    "tags": []
+  },
+  {
+    "slug": "iptv-toronto-hd",
+    "name": "IPTV Toronto HD",
+    "url": "https://www.iptvtorontohd.com/",
+    "note": "Canada-branded IPTV storefront on the shared market template.",
+    "status": "profiled",
+    "overall": null,
+    "sub": {
+      "streaming": null,
+      "channels": 4,
+      "reliability": null,
+      "price": 4,
+      "support": null
+    },
+    "pricing": {
+      "monthly": 14.95,
+      "quarterly": 29.95,
+      "annual": 59.95
+    },
+    "channel_count": "25,000+ (provider-claimed)",
+    "trial": "Not advertised",
+    "last_updated": "2026-09-17",
+    "category": "general",
+    "tags": []
+  },
+  {
+    "slug": "tv-flex-streams",
+    "name": "TV Flex Streams",
+    "url": "https://www.tvflexstreams.com/",
+    "note": "General-entertainment IPTV storefront on the shared market template.",
+    "status": "profiled",
+    "overall": null,
+    "sub": {
+      "streaming": null,
+      "channels": 4,
+      "reliability": null,
+      "price": 4,
+      "support": null
+    },
+    "pricing": {
+      "monthly": 14.95,
+      "quarterly": 29.95,
+      "annual": 59.95
+    },
+    "channel_count": "25,000+ (provider-claimed)",
+    "trial": "Not advertised",
+    "last_updated": "2026-09-17",
     "category": "general",
     "tags": []
   }

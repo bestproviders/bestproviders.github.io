@@ -520,3 +520,25 @@ td.num,th.num{font-family:var(--font-mono);font-variant-numeric:tabular-nums}
   padding:32px;text-align:center;margin:36px 0;
 }
 .cta-banner h2{margin-top:0}
+
+/* Footer: cross-property links */
+.footer-elsewhere{margin-top:30px;padding-top:22px;border-top:1px solid var(--border-soft)}
+.footer-elsewhere h4{font-size:0.85rem;color:var(--text-faint);text-transform:uppercase;letter-spacing:0.04em;font-family:var(--font-mono);margin-bottom:12px}
+.elsewhere-list{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px 22px}
+.elsewhere-list a{color:var(--text-dim);font-size:0.9rem}
+.elsewhere-list a:hover{color:var(--green)}
+
+/* Review pages: verbatim quotes from the operator's own site */
+.own-words{margin:18px 0;padding:16px 20px;border-left:3px solid var(--green);background:rgba(255,255,255,0.02);border-radius:0 var(--radius) var(--radius) 0}
+.own-words p{margin:0 0 10px;color:var(--text-dim);font-size:0.94rem}
+.own-words p:last-of-type{margin-bottom:8px}
+.own-words cite{display:block;font-family:var(--font-mono);font-size:0.76rem;color:var(--text-faint);font-style:normal}
+
+/* Site index page */
+.sitemap-list{list-style:none;padding:0;margin:0 0 26px}
+.sitemap-list li{margin-bottom:7px}
+.sitemap-list a{color:var(--text-dim);font-size:0.94rem}
+.sitemap-list a:hover{color:var(--green)}
+.sitemap-cols{columns:3;column-gap:32px}
+@media (max-width:860px){.sitemap-cols{columns:2}}
+@media (max-width:520px){.sitemap-cols{columns:1}}
