@@ -1,4 +1,4 @@
-let make #!/bin/sh
+let make let #!/bin/sh
 # Push every URL in sitemap.xml to IndexNow (Bing, Yandex, Seznam, Naver).
 # Google does NOT use IndexNow — for Google, submit the sitemap in Search Console.
 # Usage: sh indexnow-submit.sh
