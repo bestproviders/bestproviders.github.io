@@ -228,7 +228,7 @@ Elsewhere
 
 https://linktr.ee/bestiptvsubscriptions
 
-heylink.me/bestiptvsubscriptions
+https://heylink.me/bestiptvsubscriptions
 
 https://www.pinterest.com/iptvusaofficail/
 
