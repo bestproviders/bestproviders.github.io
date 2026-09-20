@@ -223,6 +223,23 @@ before comparing two brands on price alone.
    [the refunds and chargebacks guide](https://bestproviders.github.io/guides/iptv-refunds-and-chargebacks.html).
 4. Paid by card? A chargeback window usually remains open — act inside it.
 
+Elsewhere
+ https://sites.google.com/view/thebestproviders
+
+https://linktr.ee/bestiptvsubscriptions
+
+heylink.me/bestiptvsubscriptions
+
+https://www.pinterest.com/iptvusaofficail/
+
+https://bestproviders.neocities.org/
+
+https://bestproviders.github.io/
+
+https://iptv-smarters-pro.ai.studio/
+
+https://bestiptvsproviders.blogspot.com/
+
 ---
 
 Corrections are welcome: [open an issue](https://github.com/bestproviders/bestproviders.github.io/issues) with the provider name, the page URL and what the
