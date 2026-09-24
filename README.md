@@ -224,26 +224,19 @@ before comparing two brands on price alone.
 4. Paid by card? A chargeback window usually remains open — act inside it.
 
 Elsewhere
- https://sites.google.com/view/thebestproviders
 
+https://sites.google.com/view/thebestproviders
 https://linktr.ee/bestiptvsubscriptions
-
 https://heylink.me/bestiptvsubscriptions
-
 https://www.pinterest.com/iptvusaofficail/
-
 https://bestproviders.neocities.org/
-
 https://bestproviders.github.io/
-
 https://iptv-smarters-pro.ai.studio/
-
 https://bestiptvsproviders.blogspot.com/
-
 https://ameblo.jp/iptvusa/ 
-
 https://heylink.me/thebestproviders
----
+
+ ---
 
 Corrections are welcome: [open an issue](https://github.com/bestproviders/bestproviders.github.io/issues) with the provider name, the page URL and what the
 operator now publishes. Affiliate links may be used — see
