@@ -18,6 +18,7 @@ documented records, not hands-on tests, and each page says so at the top.
 
 ## Contents
 
+- [Elsewhere](#elsewhere) &mdash; every official BestProviders page
 - [Installation](#installation)
 - [Repository layout](#repository-layout)
 - [Methodology](#methodology)
@@ -26,6 +27,24 @@ documented records, not hands-on tests, and each page says so at the top.
 - [Tracked providers](#tracked-providers) &mdash; all 97 brands with their domains
 - [Known problems](#known-problems)
 - [Troubleshooting a subscription](#troubleshooting-a-subscription)
+
+## Elsewhere
+
+Every page below is run by BestProviders. Click any link to open it in your browser.
+
+| Where | Link |
+| --- | --- |
+| Google Sites | <https://sites.google.com/view/thebestproviders> |
+| Main site (GitHub Pages) | <https://bestproviders.github.io/> |
+| Linktree | <https://linktr.ee/bestiptvsubscriptions> |
+| HeyLink | <https://heylink.me/bestiptvsubscriptions> |
+| HeyLink (The Best Providers) | <https://heylink.me/thebestproviders> |
+| Ameblo | <https://ameblo.jp/iptvusa/> |
+| Neocities mirror | <https://bestproviders.neocities.org/> |
+| Pinterest | <https://www.pinterest.com/iptvusaofficail/> |
+| IPTV Smarters Pro guide | <https://iptv-smarters-pro.ai.studio/> |
+| Blogspot | <https://bestiptvsproviders.blogspot.com/> |
+| Source repository | <https://github.com/bestproviders/bestproviders.github.io> |
 
 ## Installation
 
@@ -223,20 +242,7 @@ before comparing two brands on price alone.
    [the refunds and chargebacks guide](https://bestproviders.github.io/guides/iptv-refunds-and-chargebacks.html).
 4. Paid by card? A chargeback window usually remains open — act inside it.
 
-Elsewhere
-
-https://sites.google.com/view/thebestproviders
-https://linktr.ee/bestiptvsubscriptions
-https://heylink.me/bestiptvsubscriptions
-https://www.pinterest.com/iptvusaofficail/
-https://bestproviders.neocities.org/
-https://bestproviders.github.io/
-https://iptv-smarters-pro.ai.studio/
-https://bestiptvsproviders.blogspot.com/
-https://ameblo.jp/iptvusa/ 
-https://heylink.me/thebestproviders
-
- ---
+---
 
 Corrections are welcome: [open an issue](https://github.com/bestproviders/bestproviders.github.io/issues) with the provider name, the page URL and what the
 operator now publishes. Affiliate links may be used — see
