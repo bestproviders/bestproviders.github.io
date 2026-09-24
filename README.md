@@ -240,6 +240,9 @@ https://iptv-smarters-pro.ai.studio/
 
 https://bestiptvsproviders.blogspot.com/
 
+https://ameblo.jp/iptvusa/ 
+
+https://heylink.me/thebestproviders
 ---
 
 Corrections are welcome: [open an issue](https://github.com/bestproviders/bestproviders.github.io/issues) with the provider name, the page URL and what the
