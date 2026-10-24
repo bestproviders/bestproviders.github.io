@@ -49,6 +49,7 @@ Every page below is run by BestProviders. Click any link to open it in your brow
 | Medium | <https://medium.com/@admin_35344/iptv-provider-directory-storefronts-and-what-each-one-actually-3dec6a9db98a> |
 | Telegram | <https://t.me/s/bestproviders1> |
 | systeme.io | <https://bestproviders.systeme.io/> |
+| ProvenExpert | <https://www.provenexpert.com/en-us/bestproviders/> |
 
 <!-- header-links:start -->
 ### Follow us
@@ -57,6 +58,7 @@ Every page below is run by BestProviders. Click any link to open it in your brow
 - Medium: <https://medium.com/@admin_35344/iptv-provider-directory-storefronts-and-what-each-one-actually-3dec6a9db98a>
 - Telegram: <https://t.me/s/bestproviders1>
 - systeme.io: <https://bestproviders.systeme.io/>
+- ProvenExpert: <https://www.provenexpert.com/en-us/bestproviders/>
 <!-- header-links:end -->
 
 ## Installation
