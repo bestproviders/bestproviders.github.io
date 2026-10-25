@@ -50,6 +50,7 @@ Every page below is run by BestProviders. Click any link to open it in your brow
 | Telegram | <https://t.me/s/bestproviders1> |
 | systeme.io | <https://bestproviders.systeme.io/> |
 | ProvenExpert | <https://www.provenexpert.com/en-us/bestproviders/> |
+| Substack | <https://bestproviders.substack.com/> |
 
 <!-- header-links:start -->
 ### Follow us
@@ -59,6 +60,7 @@ Every page below is run by BestProviders. Click any link to open it in your brow
 - Telegram: <https://t.me/s/bestproviders1>
 - systeme.io: <https://bestproviders.systeme.io/>
 - ProvenExpert: <https://www.provenexpert.com/en-us/bestproviders/>
+- Substack: <https://bestproviders.substack.com/>
 <!-- header-links:end -->
 
 ## Installation
