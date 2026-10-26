@@ -6,7 +6,14 @@
     <atom:link href="https://bestproviders.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Independent IPTV provider documentation and original research. 97 storefronts tracked.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>BestProviders on Vercel: Every IPTV Review &amp; Guide</title>
+      <link>https://bestproviders.github.io/blog/bestproviders-vercel-site</link>
+      <guid isPermaLink="true">https://bestproviders.github.io/blog/bestproviders-vercel-site</guid>
+      <description>bestproviders.vercel.app, the Vercel edition of BestProviders: the IPTV comparison table, plain-English guides, network articles and all 94 provider reviews.</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>BestProviders on WordPress: Every IPTV Page &amp; Review</title>
       <link>https://bestproviders.github.io/blog/bestproviders-wordpress-site</link>
