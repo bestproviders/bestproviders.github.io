@@ -657,31 +657,7 @@ const PROVIDERS = [
     "category": "general",
     "tags": []
   },
-  {
-    "slug": "digitalizard-iptv",
-    "name": "DigitaLizard IPTV",
-    "url": "https://www.digitalizardiptv.org/",
-    "note": "IPTV subscription provider.",
-    "status": "profiled",
-    "overall": null,
-    "sub": {
-      "streaming": null,
-      "channels": null,
-      "reliability": null,
-      "price": null,
-      "support": null
-    },
-    "pricing": {
-      "monthly": null,
-      "quarterly": null,
-      "annual": null
-    },
-    "channel_count": null,
-    "trial": null,
-    "last_updated": "2026-07-22",
-    "category": "general",
-    "tags": []
-  },
+  
   {
     "slug": "4k-iptv-spot-store",
     "name": "4K IPTV Spot Store",
@@ -1061,7 +1037,7 @@ const PROVIDERS = [
     "slug": "digitalizard-iptv-alt",
     "name": "DigitaLizard IPTV",
     "url": "https://www.digitalizardiptvi.com/",
-    "note": "IPTV subscription provider sharing a brand name with a separately operated service (digitalizard-iptv).",
+    "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
     "sub": {

@@ -74,7 +74,7 @@ This repository *is* the published site — there is no build step.
 ### Read it online
 
 1. Open [https://bestproviders.github.io](https://bestproviders.github.io).
-2. Start at [All 97 IPTV Services Compared](https://bestproviders.github.io/best/best-iptv.html) for the full comparison.
+2. Start at [All 96 IPTV Services Compared](https://bestproviders.github.io/best/best-iptv.html) for the full comparison.
 3. Use [the site index](https://bestproviders.github.io/sitemap.html) to reach any single page.
 
 ### Run it locally
@@ -120,10 +120,10 @@ Read [about.html](https://bestproviders.github.io/about.html) for the full versi
 
 ## Comparisons and reports
 
-- [All 97 IPTV Services Compared — the Real Differences](https://bestproviders.github.io/best/best-iptv.html)
+- [All 96 IPTV Services Compared — the Real Differences](https://bestproviders.github.io/best/best-iptv.html)
 - [Best 4K IPTV Services — What the Claims Actually Show](https://bestproviders.github.io/best/best-4k-iptv.html)
 - [Cheapest IPTV Services — Why Price Cannot Separate Them](https://bestproviders.github.io/best/cheapest-iptv-services.html)
-- [How 97 IPTV Storefronts Share One Template](https://bestproviders.github.io/reports/iptv-storefront-template.html)
+- [How 96 IPTV Storefronts Share One Template](https://bestproviders.github.io/reports/iptv-storefront-template.html)
 
 ## Tracked providers
 
@@ -230,11 +230,10 @@ storefront, except for dead domains, which are left as plain text.
 | [Yourflix](https://bestproviders.github.io/reviews/yourflix.html) | [`www.yourflix.org`](https://www.yourflix.org/) | Sold as “Yourflix \| The Official IPTV Subscription Provider”; players: Flix IPTV and MAG |
 | [Zyro IPTV](https://bestproviders.github.io/reviews/zyro-iptv.html) | [`www.zyroiptv.com`](https://www.zyroiptv.com/) | Sold as “Zyro IPTV – The Best Worldwide IPTV Subscription”; -iptv domain family (16 domains) |
 
-### Offline domains (4)
+### Offline domains (3)
 
 | Provider | Domain | What the record shows |
 | --- | --- | --- |
-| [DigitaLizard IPTV](https://bestproviders.github.io/reviews/digitalizard-iptv.html) | `www.digitalizardiptv.org` | NXDOMAIN as of 2026-09-17 — www.digitalizardiptv.org has no DNS record |
 | [HyperSonic TV](https://bestproviders.github.io/reviews/hypersonic-tv.html) | `www.hypersonic-tv.org` | NXDOMAIN as of 2026-09-17 — www.hypersonic-tv.org has no DNS record |
 | [Static IPTV](https://bestproviders.github.io/reviews/static-iptv.html) | `www.staticiptvi.store` | NXDOMAIN as of 2026-09-17 — www.staticiptvi.store has no DNS record |
 | [Yeah IPTV Store](https://bestproviders.github.io/reviews/yeah-iptv-store.html) | `www.yeahiptvstore.com` | NXDOMAIN as of 2026-09-17 — www.yeahiptvstore.com has no DNS record |
