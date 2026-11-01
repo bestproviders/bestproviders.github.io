@@ -6,7 +6,14 @@
     <atom:link href="https://bestproviders.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Independent IPTV provider documentation and original research. 97 storefronts tracked.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>IPTV Trends Website: All 301 Guides, Blog Posts &amp; Plans</title>
+      <link>https://bestproviders.github.io/blog/bestproviders-iptv-trends-website</link>
+      <guid isPermaLink="true">https://bestproviders.github.io/blog/bestproviders-iptv-trends-website</guid>
+      <description>A complete map of www.theiptvtrends.com: every IPTV Trends plan page, all guides on players, setup and fixes, and every blog article, grouped by category.</description>
+      <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>BestProviders on Vercel: Every IPTV Review &amp; Guide</title>
       <link>https://bestproviders.github.io/blog/bestproviders-vercel-site</link>
