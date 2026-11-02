@@ -108,7 +108,7 @@ const PROVIDERS = [
   {
     "slug": "iptv-trends-4k",
     "name": "IPTV Trends 4K",
-    "url": "https://www.theiptvtrends.com/",
+    "url": "https://theiptvtrends.com/",
     "note": "4K-tier IPTV service \u2014 a distinct offering from IPTV Trends (non-4K).",
     "status": "profiled",
     "overall": null,
