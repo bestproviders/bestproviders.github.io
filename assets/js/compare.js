@@ -2,15 +2,15 @@
   var tbody = document.getElementById('compare-body');
   if (!tbody || typeof PROVIDERS === 'undefined') return;
 
-  var CATEGORY_LABEL = { general: 'General', xtream: 'Xtream family', trends: 'Trends family', '4k': '4K' };
+  var CATEGORY_LABEL = { general: 'General', xtream: 'Xtream family', trends: 'General', '4k': '4K' };
   var FOUR_K_SLUGS = [
-    'iptv-trends-4k', 'epix-iptv', 'skyhub4k',
+    'the-iptv-trends', 'epix-iptv', 'skyhub4k',
     '4k-iptv-spot-store', '4k-live-iptv-store', 'focus-4k-iptv', 'magic-4k-streams',
     'orla-tv-4k', 'pulse-4k-store', 'the-nexus-4k-tv', 'tivistation', 'your-prime-tv-4k'
   ];
   function categoryOf(slug) {
     if (['xtream-iptv', 'xtream-view-iptv', 'xtream-codes'].indexOf(slug) > -1) return 'xtream';
-    if (['iptv-trends', 'iptv-trends-4k'].indexOf(slug) > -1) return 'trends';
+    if (['iptv-trends', 'the-iptv-trends'].indexOf(slug) > -1) return 'trends';
     if (FOUR_K_SLUGS.indexOf(slug) > -1) return '4k';
     return 'general';
   }
