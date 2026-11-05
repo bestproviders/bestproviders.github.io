@@ -635,7 +635,7 @@ const PROVIDERS = [
   {
     "slug": "hypersonic-tv",
     "name": "HyperSonic TV",
-    "url": "https://www.hypersonic-tv.org/",
+    "url": "",
     "note": "IPTV subscription provider marketed on stream speed/stability.",
     "status": "profiled",
     "overall": null,
@@ -1686,7 +1686,7 @@ const PROVIDERS = [
   {
     "slug": "one-dollar-iptv-store",
     "name": "One Dollar IPTV Store",
-    "url": "https://www.onedollariptvstore.com/",
+    "url": "",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -1888,7 +1888,7 @@ const PROVIDERS = [
   {
     "slug": "static-iptv",
     "name": "Static IPTV",
-    "url": "https://www.staticiptvi.store/",
+    "url": "",
     "note": "IPTV subscription provider.",
     "status": "profiled",
     "overall": null,
@@ -2238,7 +2238,7 @@ const PROVIDERS = [
   {
     "slug": "yeah-iptv-store",
     "name": "Yeah IPTV Store",
-    "url": "https://www.yeahiptvstore.com/",
+    "url": "",
     "note": "IPTV subscription provider sharing a brand name with a separately operated service (yeah-iptv).",
     "status": "profiled",
     "overall": null,
